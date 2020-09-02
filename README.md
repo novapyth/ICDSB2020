@@ -12,4 +12,26 @@ The conference proceedings will be published in the International Journal of Com
 Major links:
 
 
+**1. ICDSB2020 Webpage: 
+https://sites.google.com/view/icdsb-2020(Keep checking for any update and for registration)
+
+**2. ICDSB2020 Workshop Flashcard
+https://github.com/drabhishekkumar/ICDSB2020/projects/1
+
+**3. Join ICDSB2020 Live sessions of All three days 
+https://edotsecurity.com/ICDSB/webinar.html
+
+**4. ICDSB 2020 Poster :https://tinyurl.com/ICDSB2020
+5. Request: We have a massive gathering of >3000 participants, hence follow us on Youtube live & raise your questions. Please keep zoom slots free for speakers. 
+Please subscribe to our youtube channel so that you get updates directly 
+**https://www.youtube.com/channel/UCs4j0fKbumzmCaOlbejEZ8Q
+
+**Day 1 - Workshop - 03-Sept-2020 Youtube live
+https://www.youtube.com/watch?v=U1ItCOU9TP0
+
+**Day 2 - 04-Sept-2020 Youtube live
+https://www.youtube.com/watch?v=0uNfY0wjqZs
+
+**Day 3 - 05-Sept-2020 Youtube live
+https://www.youtube.com/watch?v=AlW4uG72oNQ
 
