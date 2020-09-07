@@ -35,3 +35,15 @@ https://www.youtube.com/watch?v=0uNfY0wjqZs
 ## Day 3 - 05-Sept-2020 Youtube live
 https://www.youtube.com/watch?v=AlW4uG72oNQ
 
+
+
+# ICDSB-2020 Youtube videos 
+## ICDSB-2020 day 1:
+https://youtu.be/U1ItCOU9TP0
+## ICDSB-2020 day 2:
+https://youtu.be/0uNfY0wjqZs
+## ICDSB-2020 day3
+https://youtu.be/AlW4uG72oNQ
+## ICDSB-2020 day4:
+https://youtu.be/wtqxQ-npbMQ
+
